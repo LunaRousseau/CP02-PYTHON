@@ -7,7 +7,18 @@
 
 ## Requisitos
 - Python 3.8 ou superior instalado no computador.
-
+## Como executar
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/LunaRousseau/CP02-PYTHON.git 
+   ```
+2. Entre na pasta do projeto:
+   ```bash
+   cd jogo-da-velha
+   ```
+3. Execute o jogo:
+   ```bash
+   python jogo_da_velha.py
 
 
 ## Como jogar
